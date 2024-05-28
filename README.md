@@ -6,8 +6,8 @@ This project is a simple e-commerce interface website. It is made using HTML and
 
 # Features
 
- Hover Effects: Various hover effects are activated when the buttons and links are hovered over. Thanks to these effects, user interaction is increased.
- Color Transitions: Smooth color transitions are provided by using CSS gradient and transition properties. These transitions add a modern and fluid atmosphere to the site.
+ - Hover Effects: Various hover effects are activated when the buttons and links are hovered over. Thanks to these effects, user interaction is increased.
+ - Color Transitions: Smooth color transitions are provided by using CSS gradient and transition properties. These transitions add a modern and fluid atmosphere to the site.
  
 
 # Used Technologies
