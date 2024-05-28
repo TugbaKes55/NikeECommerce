@@ -1,7 +1,7 @@
 # Nike E-Commerce
 
 
-This project is a simple e-commerce interface website. It is made using HTML and CSS and was created with the aim of applying modern web design techniques. Various techniques were used in the project to provide an aesthetic appearance with responsive layouts, animations and CSS.
+This project is a simple e-commerce interface website. It is made using HTML and CSS and was created with the aim of applying modern web design techniques. Various techniques were used in the project to provide an aesthetic appearance with user-friendly design, animations and CSS.
 
 
 # Features
